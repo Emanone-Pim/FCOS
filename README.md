@@ -8,6 +8,7 @@ The OS is on 2 USB-Key and when you boot on it just sends it's IP(encrypted) thr
 There are 2 passwords to decrypt the OS partitions which prevents anyone getting one of the key to use this system.
 To avoid keyloggers the way the kernel uses the keyboard will be altered.
 To avoid sniffing from someone on the router the message will be encrypted and will go through tor network.
+Even the simple fact that you are sending a message will be hidden through stegano.
 The high level of encryption(ssh) should be enough to make intercepting the message useless.
 The kernel will turn off the cam and mic so that they could be recorded.
 The only function of the OS will be "newcircuit" which will change the keys and the tor network.
