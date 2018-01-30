@@ -1,5 +1,5 @@
 # FCOS
-Fully-Crypted-Operating system
+Fully-Crypted-Operating-System
 
 The purpose of this OS is to create a way of communicating with little chance of getting our message stolen.The idea is to stop any attempt at all steps of the communication.
 
